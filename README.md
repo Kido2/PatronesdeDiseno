@@ -29,4 +29,4 @@ Strategy|Comportamiento|Permite realizar familias de algoritmos con definidas co
 Template|Comportamiento|Permite que un algoritmo sea almacenada en una superclase y que susu subclases alteren los pasos del algoritmo sin cambiar la estructura general de este mismo.
 Visitor|Comportamiento|Permite separar los algoritmos sobre los objetos que operan.
 # Bibliografia:
-[Refactoring Guru](https://refactoring.guru/es/design-patterns)
+[Refactoring Guru](https://refactoring.guru/es/design-patterns/catalog)
